@@ -25,7 +25,10 @@ function Header() {
 
              <div
              className="header__nav">
+                 <Link to ="/login">
                  
+                 
+                
                   <div
                  className="header__option">
                      <span
@@ -40,6 +43,8 @@ function Header() {
                      </span>
 
                  </div>
+                   </Link>
+                  
                   <div
                  className="header__option">
                      <span
