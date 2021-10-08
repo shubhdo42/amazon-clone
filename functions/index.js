@@ -33,7 +33,7 @@ app.post("/payments/create", async (request, response) => {
   console.log("boom>>>", total);
   const paymentIntent = await stripe.paymentIntents.create({
     amount: total,
-    currency: "usd",
+    currency: "INR",
   });
   response.status(201).send({
     clientSecret: paymentIntent.client_secret,
