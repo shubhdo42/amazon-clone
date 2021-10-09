@@ -1,3 +1,15 @@
+---------------------
+🚀🚀🚀🚀🚀
+Amazon CLONE(Fullstack Project)
+amazon clone project made with react javascript framework included Stipe real time payments and firebase database to store payment history. 🚀 😅
+
+
+
+
+
+
+
+-------------
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
