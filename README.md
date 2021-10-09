@@ -1,7 +1,7 @@
 ---------------------
 🚀🚀🚀🚀🚀
 Amazon CLONE(Fullstack Project)
-amazon clone project made with react javascript framework included Stipe real time payments and firebase database to store payment history. 🚀 😅
+amazon clone project made with react javascript framework included Stripe real time payments and firebase database to store payment history. 🚀 😅
 
 
 
